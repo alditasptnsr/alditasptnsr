@@ -9,16 +9,16 @@
 ![VueJS](https://img.shields.io/badge/VueJS-Beginer-green)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Beginner-blue)
 
-Hello! Nama saya Aldita Septinasari saya seorang pelajar di SMKN 1 CIAMIS dengn jurusan Rekayasa Perangkat Lunak
+Hello! Welcome to my learn by doing.. 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Software Engineering at SMKN 1 CIAMIS
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning VueJS, NextJs, with another language
 - 👯 I’m looking to collaborate on Open Source and/or Kpops projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🤔 I’m looking for help with Collaboration opportunities, Feedback on my projects, Resources for learning
+- 💬 Ask me about latest tech trends, Web development, Junior Programmer
+- 📫 How to reach me: alditaseptinasari394@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Women in tech enthusiast and k-pop enthusiast
 
